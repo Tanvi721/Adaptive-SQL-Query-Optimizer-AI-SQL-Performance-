@@ -55,7 +55,7 @@ It simulates a **Mini SQL Workbench + AI Optimizer + Enterprise Monitoring Tool*
 
 ▶️ Watch Demo Video:
 
-[▶️ Watch Demo Video](Adaptive-SQL-Optimizer/demo.mp4)
+[▶️ Watch Demo Video](Adaptive-SQL-Optimizer/demo(2).mp4)
 
 
 
