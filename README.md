@@ -51,21 +51,15 @@ It simulates a **Mini SQL Workbench + AI Optimizer + Enterprise Monitoring Tool*
 
 ## 🚀 Real-Time SQL Optimization Demo
 
-🎬 **Watch Full Demo Video:**  
-👉 [Click to Watch Demo](./demo.mp4)
+# 🎥 Demo Recording
 
-📁 Place your recorded demo file (`demo.mp4`) inside the project root directory.
+## 🚀 Real-Time SQL Optimizer Demo
 
-You can also upload a GIF preview:
+▶️ Click below to watch the full demo:
 
-```
-assets/demo.gif
-```
+[▶️ Watch Demo Video](./demo.mp4)
 
-And embed like this:
 
-```markdown
-![Demo Preview](assets/demo.gif)
 ```
 
 ---
