@@ -51,16 +51,13 @@ It simulates a **Mini SQL Workbench + AI Optimizer + Enterprise Monitoring Tool*
 
 ## 🚀 Real-Time SQL Optimization Demo
 
-# 🎥 Demo Recording
+## 🎥 Demo Recording
 
-## 🚀 Real-Time SQL Optimizer Demo
+▶️ Watch Demo Video:
 
-▶️ Click below to watch the full demo:
-
-[▶️ Watch Demo Video](./demo.mp4)
+[Click here to download and watch](./demo.mp4)
 
 
-```
 
 ---
 
