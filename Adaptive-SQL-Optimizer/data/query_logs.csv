@@ -1,0 +1,5 @@
+query,joins,conditions,subqueries,execution_time
+"SELECT * FROM users",0,0,0,0.05
+"SELECT * FROM users WHERE id=10",0,1,0,0.02
+"SELECT u.name,o.amount FROM users u JOIN orders o ON u.id=o.user_id",1,0,0,0.15
+"SELECT * FROM orders WHERE amount>500 AND status='paid'",0,2,0,0.12
