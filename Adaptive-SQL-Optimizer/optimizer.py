@@ -58,4 +58,5 @@ def rewrite_query(query):
     if "!=" in query:
         query = query.replace("!=", "<>")
 
+
     return query
