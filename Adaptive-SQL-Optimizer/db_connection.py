@@ -5,11 +5,11 @@ from mysql.connector import Error
 def get_connection():
     try:
         connection = mysql.connector.connect(
-            host="localhost",
-            user="root",
-            password="Tanvi@721",
-            database="sql_optimizer",
-            port=3306,
+            host="containers-us-west-xxx.railway.app"
+            user="root"
+            password="railway_password"
+            database="railway"
+            port=3306
             autocommit=True
         )
 
@@ -46,4 +46,5 @@ def get_connection():
 
     except Error as e:
         print("❌ Connection Error:", e)
+
         raise
