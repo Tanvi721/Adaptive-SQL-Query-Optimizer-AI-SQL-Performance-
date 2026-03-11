@@ -5,16 +5,16 @@ from mysql.connector import Error
 def get_connection():
     try:
         connection = mysql.connector.connect(
-            host="containers-us-west-xxx.railway.app"
-            user="root"
-            password="railway_password"
-            database="railway"
-            port=3306
+            host="metro.proxy.rlwy.net",
+            user="root",
+            password="DGEsuhWPyIAnqbwiMmKokwGGRgOyQECF",
+            database="railway",
+            port=37078,
             autocommit=True
         )
 
         if connection.is_connected():
-            print("✅ MySQL Connected Successfully")
+            print("✅ Railway MySQL Connected Successfully")
 
             # Create required tables if not exist
             cursor = connection.cursor()
@@ -46,5 +46,4 @@ def get_connection():
 
     except Error as e:
         print("❌ Connection Error:", e)
-
         raise
